@@ -29,7 +29,7 @@ https://docs.docker.com/desktop/
 ![alt text](/images/user1.png "Realm")
 ![alt text](/images/user2.png "Realm")
 
-Client and User (https://blog.logrocket.com/implement-keycloak-authentication-react/)
+For further info you can follow this guide: https://blog.logrocket.com/implement-keycloak-authentication-react/
 # Set up React
 
 The new Realm and Client created above must be added in the Keycloak.js config.
